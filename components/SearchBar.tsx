@@ -52,6 +52,6 @@ const styles = StyleSheet.create({
     },
     buttonBack: {
       color: 'black',
-    }
+    },
 });
 
